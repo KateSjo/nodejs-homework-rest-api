@@ -19,7 +19,3 @@ const HttpCode = {
 };
 
 module.exports = { Gender, HttpCode };
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
